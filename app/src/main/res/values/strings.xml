@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="botonsuma">suma</string>
+    <string name="botonresta">resta</string>
+    <string name="botonmulti">multi</string>
+    <string name="botondivi">divi</string>
+
+    <string name="textonumero">Escribe un numero</string>
+    <string name="textonumero2">Escribe otro numero</string>
+
+</resources>
